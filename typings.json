@@ -1,0 +1,11 @@
+{
+  "name": "validated-method",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/meteor/validated-method",
+  "version": "1.1.0",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+    "meteor": "registry:env/meteor#1.3.0+20160830163906"
+  }
+}
